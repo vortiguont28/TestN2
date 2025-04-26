@@ -1,1 +1,1 @@
-First project on Github
+файл .gitattributes - отвечает за
